@@ -106,3 +106,7 @@ SOLID programming design principles can feel overwhelming at first, yet when you
 This is the source article:
 
 https://www.bmc.com/blogs/solid-design-principles/
+
+Courseera course:
+
+https://www.coursera.org/learn/design-patterns/lecture/ZsMAS/2-3-3-dependency-inversion-principle
